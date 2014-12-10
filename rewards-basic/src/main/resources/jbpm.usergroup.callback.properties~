@@ -1,0 +1,4 @@
+db.ds.jndi.name=java:jboss/datasources/ExampleDS
+db.user.query=select userId from Users where userId = ?
+db.user.roles.query=
+db.roles.query=
